@@ -2,25 +2,25 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-#url: http://github.com/sunseekers/sunseekers.github.io
+#url: http://github.com/freekitten/freekitten.github.io
 date_format: 'ordinal'
-title: sunseekers
-subtitle: '不积跬步，无以至千里；不积小流，无以成江海'
+title: freekitten
+subtitle: 'More pursuit,more fun.'
 description: 'Record ideas and knowledge'
-keywords: Algorithm,Machine Learning(eg.Deep Learning),Data miningç
-timezone: Asia/shanghai
+keywords: web
+timezone: Asia/Shanxi
 encoding: 'utf-8'
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: sunseekers
+author: freekitten
 #organization: UESTC
 #organization_url: http://organization_url.githbu.io
-github_username: sunseekers
-location: shanghai
-email: 1390639401@qq.com
+github_username: freekitten
+location: shanxi
+email: freekitten@outlook.com
 
 # ---------------- #
 #    Navigation    #
